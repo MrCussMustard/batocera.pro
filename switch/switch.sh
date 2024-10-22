@@ -2,13 +2,13 @@
 
 
 # Display the dialog message box
-dialog --msgbox "Installer is offline, due to Nintendo DMCA GitHub removals." 7 50
+#dialog --msgbox "Installer is offline, due to Nintendo DMCA GitHub removals." 7 50
 
 # Clear the dialog remnants from the terminal screen
-clear
+#clear
 
 # End the script
-exit 0
+#exit 0
 
 # BATOCERA.PRO INSTALLER
 ######################################################################
